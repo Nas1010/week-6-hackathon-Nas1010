@@ -6,6 +6,11 @@ This project aims to implement a function that efficiently calculates the nth Fi
 
 The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones. The sequence begins as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233 .... This challenge encourages understanding and implementing algorithms that calculate Fibonacci numbers iteratively, ensuring efficiency for larger values of n.
 
+To test your function, remember to save your changes and run `npm run test` in your terminal.
+
+- Kata Available: main.js
+- Tests Available: main.test.js
+
 ## Planning Phase
 
 - Disney Ideation: Dreamer, Realistic and Critic phase to narrow down on challenge.
